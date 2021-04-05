@@ -26,24 +26,11 @@ A Server Made Using Node.JS and MongoDB Which Will Handle File Upload And Downlo
         type:String
     }
 ### Model In Database
-id
-:
-606a93dac0a78224b85fc8e3
-originalFileName
-:
-"3kl5xwskjij51.jpg"
-fileExtension
-:
-"jpeg"
-newUniqueName
-:
-"1617597402111-3kl5xwskjij51.jpg"
-urlToDownloadFile
-:
-"http://localHost:8080/api/filedownload/1617597402111-3kl5xwskjij51.jpg"
-__v
-:
-0
+id:606a93dac0a78224b85fc8e3  
+originalFileName:"3kl5xwskjij51.jpg"  
+fileExtension:"jpeg"   
+newUniqueName:"1617597402111-3kl5xwskjij51.jpg"   
+urlToDownloadFile:"http://localHost:8080/api/filedownload/1617597402111-3kl5xwskjij51.jpg"   
 
 ### Dependecies Used 
 1) Express
